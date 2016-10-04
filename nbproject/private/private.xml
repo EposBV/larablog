@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/larablog/resources/views/auth/passwords/reset.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/resources/views/auth/passwords/email.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/resources/views/newtask.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/app/Item.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/larablog/.env</file>
+            <file>file:/C:/xampp/htdocs/larablog/public/css/custom.css</file>
+            <file>file:/C:/xampp/htdocs/larablog/resources/lang/nl/validation.php</file>
+        </group>
+    </open-files>
+</project-private>
